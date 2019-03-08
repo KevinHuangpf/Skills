@@ -3,7 +3,7 @@ Skills
 1. Git  
   git init  
   git add .  
-  git remote add origin git@github.com:djqiang/gitdemo.git  
+  git remote add origin git@github.com:KevinHuangpf/Skills.git
   git pull --rebase origin master  
   git push origin master  
 
