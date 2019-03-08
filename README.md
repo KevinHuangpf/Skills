@@ -10,4 +10,4 @@ Skills
 https://blog.csdn.net/qq_28055429/article/details/51007453
 
 2. origin
-  spilt
+  spilt 
