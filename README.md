@@ -1,13 +1,13 @@
 # Skills
-Skills
-1. Git
-  git init
-  git add .
-  git remote add origin git@github.com:djqiang/gitdemo.git
-  git pull --rebase origin master
-  git push origin master
+Skills  
+1. Git  
+  git init  
+  git add .  
+  git remote add origin git@github.com:djqiang/gitdemo.git  
+  git pull --rebase origin master  
+  git push origin master  
 
-https://blog.csdn.net/qq_28055429/article/details/51007453
+https://blog.csdn.net/qq_28055429/article/details/51007453  
 
-2. origin
-  spilt 
+2. origin  
+  spilt   
